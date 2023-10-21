@@ -1,0 +1,11 @@
+h1 {
+    text-align: center;
+}
+p {
+    font: bold 16pt arial;
+}
+a {
+    font: 24pt arial;
+    color: blue;
+    text-decoration: none;
+}
